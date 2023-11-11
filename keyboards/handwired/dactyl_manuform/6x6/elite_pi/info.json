@@ -1,0 +1,13 @@
+{
+    "keyboard_name": "Dactyl Manuform 6x6",
+    "matrix_pins": {
+        "cols": ["GP2", "GP3", "GP4", "GP5", "GP6", "GP7"],
+        "rows": ["GP29", "GP28", "GP27", "GP26", "GP22", "GP20", "GP23"]
+    },
+    "diode_direction": "COL2ROW",
+    "split": {
+        "soft_serial_pin": "GP0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040"
+}
